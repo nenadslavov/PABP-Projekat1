@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\bin\Debug\PABP-PrviProjekat.exe.config
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\bin\Debug\PABP-PrviProjekat.exe
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\bin\Debug\PABP-PrviProjekat.pdb
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP-PrviProjekat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP_PrviProjekat.Form1.resources
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP_PrviProjekat.mainForm.resources
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP_PrviProjekat.Properties.Resources.resources
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP-PrviProjekat.csproj.GenerateResource.cache
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP-PrviProjekat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP-PrviProjekat.exe
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP-PrviProjekat.pdb
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP_PrviProjekat.izmenaForm.resources
+C:\Users\User\source\repos\vezbaZaProj\PABP-PrviProjekat\obj\Debug\PABP_PrviProjekat.unosForm.resources
